@@ -1,5 +1,4 @@
 requests
-torch
 torchaudio
 numpy
 Pillow
