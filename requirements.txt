@@ -1,5 +1,4 @@
 requests
-torchaudio
 numpy
 Pillow
 imageio-ffmpeg
